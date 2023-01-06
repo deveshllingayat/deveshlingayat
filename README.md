@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deveshllingayat
-- 👀 I’m interested in Native App Development.
-- 🌱 I’m currently learning Java, Android.
+- 👀 I’m interested in Front-end Development.
+- 🌱 I’m currently learning MERN Stack.
 
 
 <!---
